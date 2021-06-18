@@ -1,0 +1,36 @@
+.image {
+    width: 250px;
+}
+
+body{
+	background:#5e0404;
+}
+
+h4{
+color:white;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1{
+color:white;
+    font-family: 'Reggae One', cursive;
+}
+
+.answer{
+display:flex;
+    justify-content:center;
+    padding:10px;
+    border: solid 2px;
+    margin: 20px;
+    background-color:#058069;
+}
+
+.pic{
+border: solid 1px;
+}
+
+.result{
+color:white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
